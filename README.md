@@ -1,5 +1,7 @@
 # Snake Game using Pygame
+-------------------------
 
+![Snake Game GIF](snake_game.gif)
 
 Steps:
 ------
